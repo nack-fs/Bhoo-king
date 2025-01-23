@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+
+   <indexitem text="Inicio" target="introduccion" />
+  <indexitem text="Reservar" target="reserva" />
+  <indexitem text="Registro" target="registro" />
+  <indexitem text="Ganar cupones">
+      <indexitem text="Funcionamiento juego" target="juego" />
+      <indexitem text="Tipos de cupones" target="cupones" />
+      <indexitem text="Como ganar cupones" target="juego" />
+      <indexitem text="Funcionamiento del sistema de cupones" target="cupones" />
+      <indexitem text="Como se canjean los cupones" target="pasarela" />
+  </indexitem>
+  <indexitem text="Pasarela" target="pasarela" />
+  <indexitem text="Cambiar el idioma" target="introduccion" />
+  <indexitem text="Restricciones en la reserva" target="reserva" />
+    
+</index>

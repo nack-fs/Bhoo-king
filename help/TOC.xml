@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Bhoo!king" target="introduccion"/>
+  <tocitem text="Reserva" target="reserva">
+      <tocitem text="Configurador reserva" target="reserva"/>
+      <tocitem text="Registro" target="registro"/>
+  </tocitem>
+  <tocitem text="Conseguir cupones">
+      <tocitem text="Juego" target="juego"/>
+      <tocitem text="Tipos de cupones" target="cupones"/>
+  </tocitem>
+  <tocitem text="Pago y canjeo de cupones" target="pasarela"/>
+
+</toc>

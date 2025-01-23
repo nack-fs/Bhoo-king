@@ -1,0 +1,15 @@
+body {
+    font-size: 14pt;
+    font-family: 'Century Gothic Bold', 'Century Gothic', sans-serif;
+    color: black;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: 'Century Gothic Bold', 'Century Gothic', sans-serif;
+    color: rgb(255, 187, 2);
+}
+
+ul {
+    list-style-type: circle;
+}
