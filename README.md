@@ -1,4 +1,19 @@
-Booking Application made in Java in the course 2023-2024 for Human Machine Communication.
+Hazla mas extensas y con todo lo que te dije
+¡Claro! Aquí tienes una descripción más detallada y con todo lo que mencionaste:
+
+Haunted Hotel Booking App 🎃🏨
+Welcome to the whimsical world of haunted hotel bookings! This Java application was developed during the 2023-2024 academic year for the "Human-Computer Interaction" course. Dive into a unique experience where you can reserve rooms in spooky hotels and earn special discounts through a fun game. 🕹️✨
+
+**Key Features:**
+- **Developed Entirely in Java:** This project showcases the power and versatility of the Java programming language.
+- **Custom Components Beyond Swing:** Introducing unique UI elements like a dynamic carousel not found in standard Swing libraries.
+- **Engaging & Interactive Game:** The application includes an entertaining game with various animations that react to user events, adding a layer of excitement to the booking process. 🎮🌟
+- **Haunted Hotel Themes:** Each hotel has its own eerie theme, complete with atmospheric effects and stories to enhance the user experience.
+- **Discount Mechanics:** Players can achieve different discounts based on their performance in the integrated game, making each booking both thrilling and rewarding.
+- **Comprehensive Documentation:** Detailed project documentation is available in Spanish, ensuring easy understanding and reproducibility. 📄🇪🇸
+  
+Explore the enchanted experience, book your next spooky stay, and enjoy the thrill of discounts through engaging gameplay. This application is not just a booking tool but an adventure into the unknown! 👻📚
+Download the full PDF documentation in Spanish for a deeper dive into the technical and creative aspects of this project. 🛠️
 
 ![screenshot](captures/CapturaPantalla_1.png)
 
