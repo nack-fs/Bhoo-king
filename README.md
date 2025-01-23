@@ -1,4 +1,5 @@
 **Haunted Hotel Booking App 🎃🏨**
+
 Welcome to the whimsical world of haunted hotel bookings! This Java application was developed during the 2023-2024 academic year for the "Human-Computer Interaction" course. Dive into a unique experience where you can reserve rooms in spooky hotels and earn special discounts through a fun game. 🕹️✨
 
 **Key Features:**
